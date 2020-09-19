@@ -1,8 +1,6 @@
-# your-first-pr
-
 # 👨‍💻 Break Into Open Source & Hacktoberfest 2020:
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+[![LoveToBuild](https://i.imgur.com/bPldAUV.jpg)](https://hacktoberfest.digitalocean.com)
 
 # Hacktoberfest Practice Pull Requests
 
