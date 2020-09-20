@@ -40,12 +40,19 @@ Questions can be asked by raising an `Issue`.
   git checkout -b <name of new branch>
 ```
 
-- Open the file `README.md`
+- Navigate to the `contributors` directory and create a file named after your GitHub username.
 
-- On a new line in alphabetical order, add your name and a link to your Github profile
+- Follow this template while entering your details
 
-- For example ,  
-  `[Full Name](https://github.com/your-username)`
+```md
+## <!-- Your Name -->
+
+## <!-- Bio -->
+
+<!-- A bit about yourself -->
+```
+
+- See this [example](https://github.com/love-to-build/your-first-pr/blob/master/contributors/jamesgeorge007.md)
 
 - Stage your changes
 
@@ -81,9 +88,3 @@ Questions can be asked by raising an `Issue`.
 - Wait for your changes to be merged
 
 - Hurray! You successfully made a contribution
-
-## Hacktoberfest community
-
-- [Om Bharatiya](https://github.com/ombharatiya)
-
-- Add Your Name Here In Alphabetical Order
